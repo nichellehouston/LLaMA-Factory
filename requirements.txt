@@ -19,6 +19,6 @@ matplotlib
 fire
 packaging
 pyyaml
-numpy<2.0.0
+numpy
 av
-tyro<0.9.0
+tyro
